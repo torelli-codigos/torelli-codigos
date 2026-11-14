@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/davitorelli/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/davibt">
+  <a href="https://github.com/torelli-codigos">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
@@ -88,23 +88,23 @@ Architecture & Concepts
 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davibt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davibt&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=torelli-codigos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torelli-codigos&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=davibt&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=torelli-codigos&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=davibt&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=torelli-codigos&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
 
 🎧 Currently Listening To
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=davibt&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="Spotify Now Playing" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=torelli-codigos&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="Spotify Now Playing" />
   </a>
 </p>
 
@@ -123,5 +123,5 @@ I'm always interested in connecting with developers, discussing software enginee
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=davibt&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=torelli-codigos&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile Views" />
 </p>
